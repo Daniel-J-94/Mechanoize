@@ -23,8 +23,12 @@ Some punctuation is not recognised
  
 Future development plans include fixing bugs, allowing for up to ten words to be sequenced, a more descriptive effects control panel, visual indicators to show which phoneme is currently in the sequence, ability to layer more than one sample.
 
-
+Application WireFrame
 ![image](https://github.com/Daniel-J-94/Mechanoize/assets/121168280/313d99f9-7282-4394-bb68-6d29965b8534)
+
+Graphical User Interface WireFrame
+<img width="675" alt="image" src="https://github.com/Daniel-J-94/Mechanoize/assets/121168280/d62fb7fb-3e47-4812-8760-6d72d55d06f2">
+
 
 
 
